@@ -1,4 +1,7 @@
 ### 24.12.2022 (announcement Metabox)
+- We are now starting the launch of v3.0.8.
+
+### 24.12.2022 (announcement Metabox)
 - The servers are now ready for the launch of version 3.0.8 for **Metabox**.
 
 ### 24.12.2022 (announcement Metabox)
