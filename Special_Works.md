@@ -1,4 +1,7 @@
 ### 24.12.2022 (announcement Metabox)
+- The code is now ready for the launch of version 3.0.8 for **Metabox**.
+
+### 24.12.2022 (announcement Metabox)
 -  **Metabox** gets a big update today - we are going to launch v3.0.8. 😍
 
 ### 24.12.2022 (announcement Metabox)
