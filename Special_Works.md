@@ -1,4 +1,7 @@
 ### 24.12.2022 (announcement Metabox)
+-  **Metabox** gets a big update today - we are going to launch v3.0.8. 😍
+
+### 24.12.2022 (announcement Metabox)
 - Google Login is now working on **Metabox**.
 
 ### 24.12.2022 (announcement Metabox)
