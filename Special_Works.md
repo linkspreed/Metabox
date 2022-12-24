@@ -1,4 +1,8 @@
 ### 24.12.2022 (announcement Metabox)
+- https://github.com/linkspreed/Metabox/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 24.12.2022 (announcement Metabox)
 - The launch of version 3.0.8 of **Metabox** was successful! 🥳
 - The new update is live now :)
 - https://metabox.ga 🔗
