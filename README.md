@@ -1,4 +1,4 @@
-# <img align="left" alt="Cloud2Go" width="200px" src="https://cloud2go.tk/storage/branding_media/1bbfdadc-d669-4e30-9258-ce93465f14b4.png" draggable="false" /> Cloud2Go ([Click to try 🚀](https://cloud2go.tk/))
+# <img align="left" alt="Metabox" width="200px" src="https://metabox.ga/storage/branding_media/a6c3fdfd-266b-4ca3-a565-d46be3eb8270.png" draggable="false" />  ([Click to try 🚀](https://metabox.ga/))
 
 Cloud2Go ☁️🔴 - Enjoy 100 TB of free and secure Cloud Storage. 🚀
 
