@@ -1,6 +1,8 @@
-# <img align="left" alt="Metabox" width="200px" src="https://metabox.ga/storage/branding_media/a6c3fdfd-266b-4ca3-a565-d46be3eb8270.png" draggable="false" />  ([Click to try 🚀](https://metabox.ga/))
+# <img align="left" alt="Metabox" width="200px" src="https://metabox.ga/storage/branding_media/a6c3fdfd-266b-4ca3-a565-d46be3eb8270.png" draggable="false" />  ([Click to try 🚀](https://metabox.ga/)) - Decentralized (Web3) | (v3.0.8)
 
 Metabox - The intelligent cloud ☁️ storage from Linkspreed 💙💜
+
+## Now **Cloud2Go** is completely decentralized and runs on a global, decentralized network!
 
 ## **[Changelog 💙💜](https://github.com/linkspreed/Metabox/blob/main/changelog.txt)** **Check out the full Metabox changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Metabox/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Metabox besides development**
