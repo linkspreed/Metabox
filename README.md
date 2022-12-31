@@ -2,7 +2,7 @@
 
 Metabox - The intelligent cloud ☁️ storage from Linkspreed 💙💜
 
-## Now **Cloud2Go** is completely decentralized and runs on a global, decentralized network!
+## Now **Metabox** is completely decentralized and runs on a global, decentralized network!
 
 ## **[Changelog 💙💜](https://github.com/linkspreed/Metabox/blob/main/changelog.txt)** **Check out the full Metabox changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Metabox/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Metabox besides development**
