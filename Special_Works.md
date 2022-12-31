@@ -1,3 +1,6 @@
+### 31.12.2022 (announcement Metabox)
+- We are currently working on adding our intelligent cloud **Metabox** to the decentralized file storage network!
+
 ### 24.12.2022 (announcement Metabox)
 - https://github.com/linkspreed/Metabox/blob/main/changelog.txt
 - The entire changelog is now available on Github.
