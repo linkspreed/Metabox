@@ -1,4 +1,7 @@
 ### 25.03.2023 (announcement Metabox)
+- 🎉🚨 Metabox just released version 3.0.9! 🚀🌥️ Stay tuned for more cloud services coming in the next few days. 💻☁️ #Metabox #CloudUpdates #LatestVersion
+
+### 25.03.2023 (announcement Metabox)
 - Exciting news! The beta version of the new cloud version may soon be launched on Metabox. Stay tuned for updates! #cloudcomputing #Metabox #technology
 
 ### 31.12.2022 (announcement Metabox)
