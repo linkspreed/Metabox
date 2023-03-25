@@ -1,4 +1,4 @@
-# <img align="left" alt="Metabox" width="200px" src="https://metabox.ga/storage/branding_media/a6c3fdfd-266b-4ca3-a565-d46be3eb8270.png" draggable="false" />  ([Click to try 🚀](https://metabox.ga/)) - Decentralized (Web3) | (v3.0.8)
+# <img align="left" alt="Metabox" width="200px" src="https://metabox.ga/storage/branding_media/a6c3fdfd-266b-4ca3-a565-d46be3eb8270.png" draggable="false" />  ([Click to try 🚀](https://metabox.ga/)) - Decentralized (Web3) | (v3.0.9)
 
 Metabox - The intelligent cloud ☁️ storage from Linkspreed 💙💜
 
