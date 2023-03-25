@@ -1,3 +1,6 @@
+### 25.03.2023 (announcement Metabox)
+- Exciting news! The beta version of the new cloud version may soon be launched on Metabox. Stay tuned for updates! #cloudcomputing #Metabox #technology
+
 ### 31.12.2022 (announcement Metabox)
 - **Metabox** has been successfully decentralized!  
 - Now use the intelligent cloud completely decentralized!  
