@@ -1,3 +1,27 @@
+### 06.04.2023 (announcement Metabox)
+- 🎉🚨 Metabox just released version 3.1.0! 🚀🌥️ Stay tuned for more cloud services coming in the next few days. 💻☁️ #Metabox #CloudUpdates #LatestVersion
+
+### 06.04.2023 (announcement Metabox)
+- https://github.com/linkspreed/Metabox/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 06.04.2023 (announcement Metabox)
+- The launch of version 3.1.0 of **Metabox** was successful! 🥳
+- The new update is live now :)
+- https://metabox.ga 🔗
+
+### 06.04.2023 (announcement Metabox)
+- We are now starting the launch of v3.1.0.
+
+### 06.04.2023 (announcement Metabox)
+- The servers are now ready for the launch of version 3.1.0 for **Metabox**.
+
+### 06.04.2023 (announcement Metabox)
+- The code is now ready for the launch of version 3.1.0 for **Metabox**.
+
+### 06.04.2023 (announcement Metabox)
+-  **Metabox** gets a big update today - we are going to launch v3.1.0. 😍
+
 ### 25.03.2023 (announcement Metabox)
 - 🎉🚨 Metabox just released version 3.0.9! 🚀🌥️ Stay tuned for more cloud services coming in the next few days. 💻☁️ #Metabox #CloudUpdates #LatestVersion
 
