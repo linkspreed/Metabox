@@ -1,3 +1,6 @@
+### 09.05.2023 (announcement Metabox)
+- 🔁 Attention, Metabox users! We're temporarily redirecting to our new Cloud ShareNode while we work on a plan for Metabox. What do you think about cloud storage solutions? 🤔 #CloudStorage #ShareNode #Metabox #UserOpinions
+
 ### 06.04.2023 (announcement Metabox)
 - 🎉🚨 Metabox just released version 3.1.0! 🚀🌥️ Stay tuned for more cloud services coming in the next few days. 💻☁️ #Metabox #CloudUpdates #LatestVersion
 
