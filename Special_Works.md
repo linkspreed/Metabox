@@ -1,3 +1,9 @@
+### 05.06.2023 (announcement Metabox)
+- 🚨 ATTENTION 🚨: Metabox is back online and accessible at https://metabox.linkspreed.com! 💻🙌 Have you tried it out yet? Let us know in the comments! 💬 #Metabox #Linkspreed #OnlineNow #InteractiveTech #JoinTheConversation 🤖👩‍💻👨‍💻
+
+### 05.06.2023 (announcement Metabox)
+- 🚨Attention🚨: Metabox platform is currently offline due to the deletion of 7 million .ga TLD domains. Our team is working to bring the platform back online ASAP. We've posted more info on Github. Any suggestions on how we can improve the platform once it's back up? #Metabox 💻🌐
+
 ### 09.05.2023 (announcement Metabox)
 - 🔁 Attention, Metabox users! We're temporarily redirecting to our new Cloud ShareNode while we work on a plan for Metabox. What do you think about cloud storage solutions? 🤔 #CloudStorage #ShareNode #Metabox #UserOpinions
 
