@@ -1,3 +1,9 @@
+### 10.07.2023 (announcement [Clouds])
+- 🌩️📲 Ready to level up our cloud systems! We're kicking off the update to Version 3.1.1 today. 🚀 Excited to bring you enhanced features and improved performance! 🌟 Have you ever experienced a system update? Share your thoughts below! 👇 #CloudUpdate #TechTuesday
+
+### 10.07.2023 (announcement [Clouds])
+- 🔁 Exciting news! We have lifted the redirection from our cloud platforms to ShareNode. 🎉💻 Now you can enjoy uninterrupted access to all your favorite features. 🚀✨ Have you already explored ShareNode? Let us know your thoughts below! #CloudPlatform #ShareNode
+
 ### 05.06.2023 (announcement Metabox)
 - 🚨 ATTENTION 🚨: Metabox is back online and accessible at https://metabox.linkspreed.com! 💻🙌 Have you tried it out yet? Let us know in the comments! 💬 #Metabox #Linkspreed #OnlineNow #InteractiveTech #JoinTheConversation 🤖👩‍💻👨‍💻
 
